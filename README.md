@@ -37,6 +37,8 @@ Neste desafio prático, você irá construir um tema WordPress simples a partir 
 
 **3. Desenvolvimento do Tema:**
 
+O Figma consiste em um total de 10 seções, incluindo tanto o cabeçalho quanto o rodapé, ambos essenciais. Além dessas duas, você tem a liberdade de selecionar mais duas seções de sua preferência para desenvolver. Assim, ao final do teste, espera-se que haja um total de 4 seções elaboradas obrigatóriamente. *Caso queira desenvolver escolher mais ou desenvolver tudo, fique a vontade!*
+
 * Explore a estrutura de arquivos do tema base.
 * Utilize o Figma fornecido [link do Figma](https://www.figma.com/design/tNU4PTfBgFScCB3nxmg4WP/Brand-Persona---Desktop?node-id=0%3A1&t=6w1ECTV06oWTdBkp-1) como guia para o design do tema.
 * Crie os arquivos necessários (PHP, CSS e JS, etc) dentro da estrutura do tema.
@@ -55,11 +57,12 @@ Neste desafio prático, você irá construir um tema WordPress simples a partir 
 
 ## Tema Base
 
-[Link do repositório]
+[Link do repositório](https://bitbucket.org/pyxys-projects/teste-pratico-de-estagio/src/main/)
 
 ## Dicas
 
 * Organize seu código com clareza, utilizando comentários para explicar as decisões tomadas.
+* Distribua seu códito em vários componentes para melhorar a organização do projeto
 * Priorize a responsividade do tema, garantindo que ele se adapte a diferentes dispositivos.
 * Consulte a documentação do WordPress para auxílio durante o desenvolvimento.
 * **Nos surpreenda!**
