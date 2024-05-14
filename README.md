@@ -1,4 +1,7 @@
+
 # 🚀 Teste Prático de Estágio [PYXYS Inteligência Digital]
+
+![PYXYS Inteligência Digital](https://pyxys.com.br/wp-content/uploads/2022/12/pyxys.png)
 
 ## Descrição do Teste
 
@@ -39,11 +42,14 @@ Neste desafio prático, você irá construir um tema WordPress simples a partir 
 
 O Figma consiste em um total de 10 seções, incluindo tanto o cabeçalho quanto o rodapé, ambos essenciais. Além dessas duas, você tem a liberdade de selecionar mais duas seções de sua preferência para desenvolver. Assim, ao final do teste, espera-se que haja um total de 4 seções elaboradas obrigatóriamente. *Caso queira desenvolver escolher mais ou desenvolver tudo, fique a vontade!*
 
-* Explore a estrutura de arquivos do tema base.
-* Utilize o Figma fornecido [link do Figma](https://www.figma.com/design/tNU4PTfBgFScCB3nxmg4WP/Brand-Persona---Desktop?node-id=0%3A1&t=6w1ECTV06oWTdBkp-1) como guia para o design do tema.
+* Explore a estrutura de arquivos do tema base;
+* O tema **nautilus** é composto por arquivos básicos e necessários para seu funcionamento, o arquivo `index.php` é a porta de entrada e nele você poderá desenvolver todo seu código;
+* O tema conta também com uma pasta de `assets` é nela que você irá colocar seus arquivos `css, js e imagens`;
+* O carregamento de arquivos `.css` deve ser feito no arquivo `header.php` e arquivos `.js` no `footer.php`;
+* Utilize o Figma fornecido [link do Figma](https://www.figma.com/design/tNU4PTfBgFScCB3nxmg4WP/Brand-Persona---Desktop?node-id=0%3A1&t=6w1ECTV06oWTdBkp-1) como guia para o design do tema;
 * Crie os arquivos necessários (PHP, CSS e JS, etc) dentro da estrutura do tema.
-* Implemente o layout, estilos e funcionalidades de acordo com o Figma.
-* Utilize Git para versionar seu código durante o desenvolvimento. Lembre-se de versionar apenas o tema no seu repositório, ou seja, a pasta **nautilus**.
+* Implemente o layout, estilos e funcionalidades de acordo com o Figma;
+* Utilize Git para versionar seu código durante o desenvolvimento. Lembre-se de versionar apenas o tema no seu repositório, ou seja, a pasta **nautilus**;
 * Inclua um arquivo readme.md em seu tema com uma breve descrição sobre o projeto as decisões que você tomou durante o desenvolvimento e qualquer outra informação útil para avaliarmos. **Considere este aquivo a documentação do projeto!**
 
 **4. Submissão do Teste:**
@@ -61,10 +67,11 @@ O Figma consiste em um total de 10 seções, incluindo tanto o cabeçalho quanto
 
 ## Dicas
 
-* Organize seu código com clareza, utilizando comentários para explicar as decisões tomadas.
-* Distribua seu códito em vários componentes para melhorar a organização do projeto
-* Priorize a responsividade do tema, garantindo que ele se adapte a diferentes dispositivos.
-* Consulte a documentação do WordPress para auxílio durante o desenvolvimento.
+* Organize seu código com clareza, utilizando comentários para explicar as decisões tomadas;
+* Fique a vontade para utilizar de algum framework ou qualquer outro padrão de codificação que achar prudente;
+* Distribua seu códito em vários componentes para melhorar a organização do projeto;
+* Priorize a responsividade do tema, garantindo que ele se adapte a diferentes dispositivos;
+* Consulte a documentação do WordPress para auxílio durante o desenvolvimento;
 * **Nos surpreenda!**
 
 **Boa sorte e divirta-se construindo seu tema WordPress!**
