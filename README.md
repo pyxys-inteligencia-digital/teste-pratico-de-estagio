@@ -1,7 +1,7 @@
 
 # 🚀 Teste Prático de Estágio [PYXYS Inteligência Digital]
 
-![PYXYS Inteligência Digital](https://pyxys.com.br/wp-content/uploads/2022/12/pyxys.png)
+![PYXYS Inteligência Digital](https://pyxys.com.br/uploads/2022/12/pyxys.png)
 
 ## Descrição do Teste
 
