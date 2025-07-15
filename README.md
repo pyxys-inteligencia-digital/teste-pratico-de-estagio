@@ -1,8 +1,6 @@
 
 # 🚀 Teste Prático de Estágio [PYXYS Inteligência Digital]
 
-![PYXYS Inteligência Digital](https://pyxys.com.br/uploads/2022/12/pyxys.png)
-
 ## Descrição do Teste
 
 Neste desafio prático, você irá construir um tema WordPress simples a partir de um layout fornecido no Figma. O objetivo é avaliar suas habilidades em HTML, CSS/SASS, PHP e Git, além de introduzir você ao mundo do desenvolvimento WordPress. Você terá a oportunidade de demonstrar sua criatividade, organização e capacidade de seguir um layout pré-definido.
